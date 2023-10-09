@@ -17,7 +17,7 @@
 
 3. Selección de la carpeta de guardado: Una vez que el usuario ha ingresado el enlace en el cuadro de texto, al hacer clic en el botón "Generar", se muestra un diálogo de selección de carpeta donde el usuario puede elegir la ubicación en su computadora donde desea guardar la imagen del código QR.
 
-    ![Texto alternativo](https://github.com/Rachix2003/QR/blob/QR/jpg2.jpg)
+    ![Texto alternativo](https://github.com/Rachix2003/GeneradorQR/blob/QR/Screenshot_14.png)
 
 5. Generación: Después de que el usuario ha seleccionado la carpeta de guardado, el programa procede a generar el código QR utilizando el enlace proporcionado.
 6. Mostrar el código QR: Una vez que el código QR ha sido generado, el programa muestra el código en la interfaz gráfica para que el usuario pueda visualizarlo.
