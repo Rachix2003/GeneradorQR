@@ -13,7 +13,7 @@
 
 2. Introducir el enlace: El usuario puede interactuar con la interfaz y tiene la posibilidad de ingresar un enlace o URL en un cuadro de texto designado.
 
-     ![Texto alternativo](https://github.com/Rachix2003/QR/blob/QR/Screenshot_13.png)
+     ![Texto alternativo](https://github.com/Rachix2003/GeneradorQR/blob/QR/Screenshot_13.png)
 
 3. Selección de la carpeta de guardado: Una vez que el usuario ha ingresado el enlace en el cuadro de texto, al hacer clic en el botón "Generar", se muestra un diálogo de selección de carpeta donde el usuario puede elegir la ubicación en su computadora donde desea guardar la imagen del código QR.
 
