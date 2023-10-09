@@ -22,7 +22,7 @@
 5. Generación: Después de que el usuario ha seleccionado la carpeta de guardado, el programa procede a generar el código QR utilizando el enlace proporcionado.
 6. Mostrar el código QR: Una vez que el código QR ha sido generado, el programa muestra el código en la interfaz gráfica para que el usuario pueda visualizarlo.
 
-   ![Texto alternativo](https://github.com/Rachix2003/QR/blob/QR/Screenshot_10.png)
+   ![Texto alternativo](https://github.com/Rachix2003/GeneradorQR/blob/QR/Screenshot_10.png)
 
    ## Biblioteca utilizada
 En este proyecto de Generador de Código QR, hemos utilizado ZXing, es una biblioteca de código abierto para la lectura y generación de códigos de barras en aplicaciones de software. Proporciona un conjunto de funciones que permiten a los desarrolladores trabajar con una amplia variedad de formatos de códigos de barras. Esta nos proporciona una forma sencilla y eficiente de generar códigos QR en diferentes formatos.
